@@ -29,12 +29,57 @@ Course Requirements
 
 ### Grading
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Interpretive Questions | 20% |
-| Project Update Papers | 20% |
-| Final Project | 50% |
-| Class Participation | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Interpretive Questions
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project Update Papers
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Project
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Interpretive Question
 
@@ -64,20 +109,205 @@ The use of another's intellectual work without acknowledgement is a serious offe
 {{< anchor "calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | (Brief) Trip Through Time | &nbsp; |
-| 2 | Game Basics | Paper 1 due: Describe your favorite game and detail its attributes and flaws |
-| 3 | Game Basics (cont.) | &nbsp; |
-| 4 | Designing Games | Paper 2 due: Submit game design proposal for your game |
-| 5 | Class Workshop: Teams and Projects | Class Exercise: Vote on last week's game proposals  {{< br >}}  {{< br >}}Choose development teams |
-| 6 | "Storytelling and Narrative" | Project material due: The team leader/producer will submit a flow chart detailing each member's tasks broken down by date. The chart should indicate the project milestones believed necessary to deliver a product demo by the first week of May 2005. The flowchart will need to take into account possible time off for vacations and weekends |
-| 7 | Team Building | Project team leaders: The four team leaders/producers will report on their progress assembling their teams |
-| 8 | "Using Outside Resources" | &nbsp; |
-| 9 | Play Balance and Online Games | &nbsp; |
-| 10 | "Introduction to Marketing and Intellectual Property" | &nbsp; |
-| 11 | Selling your Game | &nbsp; |
-| 12 | Workshop: Polishing the Presentation and Business Plan | Work on your presentations and we will discuss more presentation specifics in class |
-| 13 | Team Presentations | Judges Panel I: Fellow classmates  {{< br >}}  {{< br >}}Judges Panel II: Games industry insiders |
-| 14 | Discussing Last Week's Presentations | &nbsp; |
-| 15 | Final Team Presentations |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+(Brief) Trip Through Time
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Game Basics
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 1 due: Describe your favorite game and detail its attributes and flaws
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Game Basics (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Designing Games
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 2 due: Submit game design proposal for your game
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Class Workshop: Teams and Projects
+{{< tdclose >}}
+{{< tdopen >}}
+Class Exercise: Vote on last week's game proposals  
+  
+Choose development teams
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+"Storytelling and Narrative"
+{{< tdclose >}}
+{{< tdopen >}}
+Project material due: The team leader/producer will submit a flow chart detailing each member's tasks broken down by date. The chart should indicate the project milestones believed necessary to deliver a product demo by the first week of May 2005. The flowchart will need to take into account possible time off for vacations and weekends
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Team Building
+{{< tdclose >}}
+{{< tdopen >}}
+Project team leaders: The four team leaders/producers will report on their progress assembling their teams
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+"Using Outside Resources"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Play Balance and Online Games
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+"Introduction to Marketing and Intellectual Property"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Selling your Game
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Polishing the Presentation and Business Plan
+{{< tdclose >}}
+{{< tdopen >}}
+Work on your presentations and we will discuss more presentation specifics in class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Team Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Judges Panel I: Fellow classmates  
+  
+Judges Panel II: Games industry insiders
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Discussing Last Week's Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Final Team Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
